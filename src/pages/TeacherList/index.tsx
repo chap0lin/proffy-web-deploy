@@ -1,4 +1,4 @@
-import React, {useEffect, FormEvent, useState} from 'react'
+import React, {FormEvent, useState} from 'react'
 import PageHeader from '../../components/PageHeader'
 import TeacherItem, {Teacher} from '../../components/TeacherItem'
 import Input from '../../components/Input'
